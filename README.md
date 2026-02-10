@@ -1,4 +1,4 @@
-## Iris Classification using Logistic Regression**
+## Iris Classification using Logistic Regression
 
 This repository contains a simple machine learning project that demonstrates how to train and evaluate a **Logistic Regression** model using the **Iris dataset** from `scikit-learn`.
 
